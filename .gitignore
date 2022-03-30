@@ -1,2 +1,6 @@
+# File system
+.DS_Store
+desktop.ini
+
 /target
 Cargo.lock
